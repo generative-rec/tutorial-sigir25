@@ -62,6 +62,10 @@
                 </div>
                 <div class="intro-lead-in"> {{ site.conference_venue }}
                 </div>
+                {% if site.show_downloads %}
+                <a href="{{ site.github.workshop_url }}" class="btn">Workshop</a>
+                <a href="{{ site.github.survey_url }}" class="btn">Survey</a>
+                {% endif %}
             </div>
         </div>
     </header>
