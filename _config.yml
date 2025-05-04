@@ -3,11 +3,11 @@ description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 theme: jekyll-theme-cayman
 
-conference_name: "Tutorial on Large Language Models for Recommendation: Progresses and Future Direction"
+conference_name: "Navigating Large Language Models for Recommendation: From Architecture to Learning Paradigms and Deployment"
 # conference_www: "on the Web Conference 2024 (WWW'24)"
-conference_www: "Collection of Tutorials on Large Language Models for Recommendation"
+conference_www: "on SIGIR 2025, July 13th, 2025"
 # conference_venue: "Singapore, Monday 13 - Friday 17 May 2024"
-conference_venue: ""
+conference_venue: "Padova Congress center"
 # conference_intro: "Will be held in 2024"
 conference_intro: ""
 
